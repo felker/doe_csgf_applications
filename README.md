@@ -21,6 +21,7 @@ Any contributed application will be licensed under a [CC BY 4.0 license](http://
 ## Future
 
 - [ ] Have Krell link to this repo from the CSGF website?
+- [ ] Anyway for alumni and fellows to get PDF copies of their full applicaitons if they didnt download from the interface during their application cycle? Can Krell send copies now by request?
 - [ ] Consistent format for partial submissions of just research statements, etc.
 - [ ] Disambiguate applications for the conventional Science & Engineering Track from those for the newer Math/CS Track (either in file name or subfolder). What year did the Math/CS Track start--- announced fall 2018, or fall 2017 for 2018 incoming cohort?
 - [ ] Add examples of unsuccessful applications? Currently, for the majority of applicants it is possible to apply to at most 2x cycles. Previously, it was possible to apply as a second year PhD student, so 3x cycles. 
